@@ -998,455 +998,103 @@
 									<h5>Projects</h5>
 									<!-- Projects Heading Ends -->
 									<div class="row no-gutters">
-										<!-- Portfolio Filter Starts -->
-										<div class="portfolio-filter col-12">
-											<ul>
-												<!-- Single Filter Starts -->
-												<li>
-													<a href="#" data-filter="*" class="current">All Elements</a>
-												</li>
-												<!-- Single Filter Ends -->
-												<!-- Single Filter Starts -->
-												<li>
-													<a href="#" data-filter=".web-templates">Web Templates</a>
-												</li>
-												<!-- Single Filter Ends -->
-												<!-- Single Filter Starts -->
-												<li>
-													<a href="#" data-filter=".logos">Logos</a>
-												</li>
-												<!-- Single Filter Ends -->
-												<!-- Single Filter Starts -->
-												<li>
-													<a href="#" data-filter=".drawings">Drawings</a>
-												</li>
-												<!-- Single Filter Ends -->
-												<!-- Single Filter Starts -->
-												<li>
-													<a href="#" data-filter=".ui-elements">UI Elements</a>
-												</li>
-												<!-- Single Filter Ends -->
-											</ul>
-										</div>
-										<!-- Portfolio Filter Ends -->
-										<!-- Portfolio Item Starts -->
-										<div class="portfolio-item col-12">
-											<div class="item-wrapper row">
-												<div class="item web-templates col-md-4 col-sm-6 col-12">
-													<div class="image">
-														<img src="img/projects/data-analysis-landing-page.jpg"
-															alt="Data Analysis Landing Page">
-													</div>
-													<div class="overlay">
-														<a class="view-more" href="#data-analysis-landing-page">
-															<span class="front">
-																<i class="far fa-eye"></i><span class="value">View
-																	<span>More</span></span>
-															</span>
-															<span class="back">
-																<i class="far fa-eye"></i><span class="value">View
-																	<span>More</span></span>
-															</span>
-														</a>
-														<div class="image-info">
-															<span class="project-name">Hospital Management System</span>
-															<span class="project-tags" style="font-size: 12px">
-																<span class="tag-icon">
-																	<i class="fas fa-tags"></i>
-																</span>
-																<span class="tag-label">Web Application, Codeigniter, MySQL</span>
-															</span>
-														</div>
-													</div>
-													<div id="data-analysis-landing-page" class="project-popup mfp-hide">
-														<!-- Project Picture On Popup Starts -->
-														<img class="project-picture"
-															src="img/projects/data-analysis-landing-page.jpg"
-															alt="Data Analysis Landing Page">
-														<!-- Project Picture On Popup Ends -->
-														<!-- Project Name Starts -->
-														<h5 class="project-name">Data Analysis Landing Page</h5>
-														<!-- Project Name Ends -->
-														<!-- Project Info Starts -->
-														<div class="project-info">
-															<!-- List Info Project Starts -->
-															<ul class="list-info-project">
-																<!-- Single List Starts -->
-																<li>
-																	<span class="label">Client</span>
-																	<span class="separator">:</span>
-																	<span class="value">Envato</span>
-																</li>
-																<!-- Single List Ends -->
-																<!-- Single List Starts -->
-																<li>
-																	<span class="label">Date</span>
-																	<span class="separator">:</span>
-																	<span class="value">14 March 2018</span>
-																</li>
-																<!-- Single List Ends -->
-																<!-- Single List Starts -->
-																<li>
-																	<span class="label">Categories</span>
-																	<span class="separator">:</span>
-																	<span class="value">Web Templates</span>
-																</li>
-																<!-- Single List Ends -->
-															</ul>
-															<!-- List Info Project Ends -->
-															<!-- Project Description Starts -->
-															<div class="project-description">
-																<!-- Single Paragraph Starts -->
-																<p>Lorem ipsum dolor sit amet, consectetur adipisicing
-																	elit. Laudantium esse Rem quidem, incidunt ad
-																	numquam quibusdam hic. Iste, sunt, corporis. Nisi
-																	itaque eligendi illum quod, ipsam dolor commodi
-																	blanditiis iste. Consequuntur doloribus accusantium
-																	sed tempora voluptatum, quisquam sit modi qui maxime
-																	reiciendis, harum, earum. Eum, ex quam excepturi.
-																</p>
-																<!-- Single Paragraph Ends -->
-																<!-- Single Paragraph Starts -->
-																<p>Lorem ipsum dolor sit amet, consectetur adipisicing
-																	elit. Possimus expedita explicabo sed voluptatum
-																	minus quos dolorum officia odio reiciendis nesciunt.
-																	Cupiditate, aperiam, architecto exercitationem
-																	repudiandae quas quisquam incidunt et quasi.</p>
-																<!-- Single Paragraph -->
-															</div>
-															<!-- Project Description Ends -->
-														</div>
-														<!-- Project Info Ends -->
-														<!-- Project Source Button Starts -->
-														<a class="project-source" href="#">
-															<span class="front">
-																<i class="fas fa-long-arrow-alt-right"></i>
-																<span class="value">Visit <span>Project</span></span>
-															</span>
-															<span class="back">
-																<i class="fas fa-long-arrow-alt-right"></i>
-																<span class="value">Visit <span>Project</span></span>
-															</span>
-														</a>
-														<!-- Project Source Button Ends -->
-													</div>
-												</div>
-												<div class="item logos drawings col-md-4 col-sm-6 col-12">
-													<div class="image">
-														<img src="img/projects/hand-drawn-space-badge-collection.jpg"
-															alt="Hand Drawn Space Badge Collection">
-													</div>
-													<div class="overlay">
-														<a class="view-more" href="#hand-drawn-space-badge-collection">
-															<span class="front">
-																<i class="far fa-eye"></i><span class="value">View
-																	<span>More</span></span>
-															</span>
-															<span class="back">
-																<i class="far fa-eye"></i><span class="value">View
-																	<span>More</span></span>
-															</span>
-														</a>
-														<div class="image-info">
-															<span class="project-name">Penghitung Lalu Lintas Otomatis (PLATO)</span>
-															<span class="project-tags" style="font-size: 12px">
-																<span class="tag-icon">
-																	<i class="fas fa-tags"></i>
-																</span>
-																<span class="tag-label">Web Application, IOT, OpenCV, Codeigniter, MySQL</span>
-															</span>
-														</div>
-													</div>
-													<div id="hand-drawn-space-badge-collection"
-														class="project-popup mfp-hide">
-														<img class="project-picture"
-															src="img/projects/hand-drawn-space-badge-collection.jpg"
-															alt="Hand Drawn Space Badge Collection">
-														<h5 class="project-name">Hand Drawn Space Badge</h5>
-														<div class="project-info">
-															<ul class="list-info-project">
-																<li>
-																	<span class="label">Client</span>
-																	<span class="separator">:</span>
-																	<span class="value">Envato</span>
-																</li>
-																<li>
-																	<span class="label">Date</span>
-																	<span class="separator">:</span>
-																	<span class="value">14 March 2018</span>
-																</li>
-																<li>
-																	<span class="label">Categories</span>
-																	<span class="separator">:</span>
-																	<span class="value">Logos, Drawings</span>
-																</li>
-															</ul>
-															<div class="project-description">
-																<p>Lorem ipsum dolor sit amet, consectetur adipisicing
-																	elit. Laudantium esse Rem quidem, incidunt ad
-																	numquam quibusdam hic. Iste, sunt, corporis. Nisi
-																	itaque eligendi illum quod, ipsam dolor commodi
-																	blanditiis iste. Consequuntur doloribus accusantium
-																	sed tempora voluptatum, quisquam sit modi qui maxime
-																	reiciendis, harum, earum. Eum, ex quam excepturi.
-																</p>
-																<p>Lorem ipsum dolor sit amet, consectetur adipisicing
-																	elit. Possimus expedita explicabo sed voluptatum
-																	minus quos dolorum officia odio reiciendis nesciunt.
-																	Cupiditate, aperiam, architecto exercitationem
-																	repudiandae quas quisquam incidunt et quasi.</p>
-															</div>
-														</div>
-														<a class="project-source" href="#">
-															<span class="front">
-																<i class="fas fa-long-arrow-alt-right"></i>
-																<span class="value">Visit <span>Project</span></span>
-															</span>
-															<span class="back">
-																<i class="fas fa-long-arrow-alt-right"></i>
-																<span class="value">Visit <span>Project</span></span>
-															</span>
-														</a>
-													</div>
-												</div>
-                                                <div class="item logos drawings col-md-4 col-sm-6 col-12">
-													<div class="image">
-														<img src="img/projects/hand-drawn-space-badge-collection.jpg"
-															alt="Hand Drawn Space Badge Collection">
-													</div>
-													<div class="overlay">
-														<a class="view-more" href="#hand-drawn-space-badge-collection">
-															<span class="front">
-																<i class="far fa-eye"></i><span class="value">View
-																	<span>More</span></span>
-															</span>
-															<span class="back">
-																<i class="far fa-eye"></i><span class="value">View
-																	<span>More</span></span>
-															</span>
-														</a>
-														<div class="image-info">
-															<span class="project-name">BNN Genggamanku</span>
-															<span class="project-tags" style="font-size: 12px">
-																<span class="tag-icon">
-																	<i class="fas fa-tags"></i>
-																</span>
-																<span class="tag-label">Web Application, Mobile Application</span>
-															</span>
-														</div>
-													</div>
-													<div id="hand-drawn-space-badge-collection"
-														class="project-popup mfp-hide">
-														<img class="project-picture"
-															src="img/projects/hand-drawn-space-badge-collection.jpg"
-															alt="Hand Drawn Space Badge Collection">
-														<h5 class="project-name">Hand Drawn Space Badge</h5>
-														<div class="project-info">
-															<ul class="list-info-project">
-																<li>
-																	<span class="label">Client</span>
-																	<span class="separator">:</span>
-																	<span class="value">Envato</span>
-																</li>
-																<li>
-																	<span class="label">Date</span>
-																	<span class="separator">:</span>
-																	<span class="value">14 March 2018</span>
-																</li>
-																<li>
-																	<span class="label">Categories</span>
-																	<span class="separator">:</span>
-																	<span class="value">Logos, Drawings</span>
-																</li>
-															</ul>
-															<div class="project-description">
-																<p>Lorem ipsum dolor sit amet, consectetur adipisicing
-																	elit. Laudantium esse Rem quidem, incidunt ad
-																	numquam quibusdam hic. Iste, sunt, corporis. Nisi
-																	itaque eligendi illum quod, ipsam dolor commodi
-																	blanditiis iste. Consequuntur doloribus accusantium
-																	sed tempora voluptatum, quisquam sit modi qui maxime
-																	reiciendis, harum, earum. Eum, ex quam excepturi.
-																</p>
-																<p>Lorem ipsum dolor sit amet, consectetur adipisicing
-																	elit. Possimus expedita explicabo sed voluptatum
-																	minus quos dolorum officia odio reiciendis nesciunt.
-																	Cupiditate, aperiam, architecto exercitationem
-																	repudiandae quas quisquam incidunt et quasi.</p>
-															</div>
-														</div>
-														<a class="project-source" href="#">
-															<span class="front">
-																<i class="fas fa-long-arrow-alt-right"></i>
-																<span class="value">Visit <span>Project</span></span>
-															</span>
-															<span class="back">
-																<i class="fas fa-long-arrow-alt-right"></i>
-																<span class="value">Visit <span>Project</span></span>
-															</span>
-														</a>
-													</div>
-												</div>
-                                                <div class="item logos drawings col-md-4 col-sm-6 col-12">
-													<div class="image">
-														<img src="img/projects/hand-drawn-space-badge-collection.jpg"
-															alt="Hand Drawn Space Badge Collection">
-													</div>
-													<div class="overlay">
-														<a class="view-more" href="#hand-drawn-space-badge-collection">
-															<span class="front">
-																<i class="far fa-eye"></i><span class="value">View
-																	<span>More</span></span>
-															</span>
-															<span class="back">
-																<i class="far fa-eye"></i><span class="value">View
-																	<span>More</span></span>
-															</span>
-														</a>
-														<div class="image-info">
-															<span class="project-name">The Architects Circle Pte Ltd</span>
-															<span class="project-tags" style="font-size: 12px">
-																<span class="tag-icon">
-																	<i class="fas fa-tags"></i>
-																</span>
-																<span class="tag-label">Web Application, Company Profile</span>
-															</span>
-														</div>
-													</div>
-													<div id="hand-drawn-space-badge-collection"
-														class="project-popup mfp-hide">
-														<img class="project-picture"
-															src="img/projects/hand-drawn-space-badge-collection.jpg"
-															alt="Hand Drawn Space Badge Collection">
-														<h5 class="project-name">Hand Drawn Space Badge</h5>
-														<div class="project-info">
-															<ul class="list-info-project">
-																<li>
-																	<span class="label">Client</span>
-																	<span class="separator">:</span>
-																	<span class="value">Envato</span>
-																</li>
-																<li>
-																	<span class="label">Date</span>
-																	<span class="separator">:</span>
-																	<span class="value">14 March 2018</span>
-																</li>
-																<li>
-																	<span class="label">Categories</span>
-																	<span class="separator">:</span>
-																	<span class="value">Logos, Drawings</span>
-																</li>
-															</ul>
-															<div class="project-description">
-																<p>Lorem ipsum dolor sit amet, consectetur adipisicing
-																	elit. Laudantium esse Rem quidem, incidunt ad
-																	numquam quibusdam hic. Iste, sunt, corporis. Nisi
-																	itaque eligendi illum quod, ipsam dolor commodi
-																	blanditiis iste. Consequuntur doloribus accusantium
-																	sed tempora voluptatum, quisquam sit modi qui maxime
-																	reiciendis, harum, earum. Eum, ex quam excepturi.
-																</p>
-																<p>Lorem ipsum dolor sit amet, consectetur adipisicing
-																	elit. Possimus expedita explicabo sed voluptatum
-																	minus quos dolorum officia odio reiciendis nesciunt.
-																	Cupiditate, aperiam, architecto exercitationem
-																	repudiandae quas quisquam incidunt et quasi.</p>
-															</div>
-														</div>
-														<a class="project-source" href="#">
-															<span class="front">
-																<i class="fas fa-long-arrow-alt-right"></i>
-																<span class="value">Visit <span>Project</span></span>
-															</span>
-															<span class="back">
-																<i class="fas fa-long-arrow-alt-right"></i>
-																<span class="value">Visit <span>Project</span></span>
-															</span>
-														</a>
-													</div>
-												</div>
-                                                <div class="item logos drawings col-md-4 col-sm-6 col-12">
-													<div class="image">
-														<img src="img/projects/hand-drawn-space-badge-collection.jpg"
-															alt="Hand Drawn Space Badge Collection">
-													</div>
-													<div class="overlay">
-														<a class="view-more" href="#hand-drawn-space-badge-collection">
-															<span class="front">
-																<i class="far fa-eye"></i><span class="value">View
-																	<span>More</span></span>
-															</span>
-															<span class="back">
-																<i class="far fa-eye"></i><span class="value">View
-																	<span>More</span></span>
-															</span>
-														</a>
-														<div class="image-info">
-															<span class="project-name">The Architects Circle Pte Ltd</span>
-															<span class="project-tags" style="font-size: 12px">
-																<span class="tag-icon">
-																	<i class="fas fa-tags"></i>
-																</span>
-																<span class="tag-label">Web Application, Company Profile</span>
-															</span>
-														</div>
-													</div>
-													<div id="hand-drawn-space-badge-collection"
-														class="project-popup mfp-hide">
-														<img class="project-picture"
-															src="img/projects/hand-drawn-space-badge-collection.jpg"
-															alt="Hand Drawn Space Badge Collection">
-														<h5 class="project-name">Hand Drawn Space Badge</h5>
-														<div class="project-info">
-															<ul class="list-info-project">
-																<li>
-																	<span class="label">Client</span>
-																	<span class="separator">:</span>
-																	<span class="value">Envato</span>
-																</li>
-																<li>
-																	<span class="label">Date</span>
-																	<span class="separator">:</span>
-																	<span class="value">14 March 2018</span>
-																</li>
-																<li>
-																	<span class="label">Categories</span>
-																	<span class="separator">:</span>
-																	<span class="value">Logos, Drawings</span>
-																</li>
-															</ul>
-															<div class="project-description">
-																<p>Lorem ipsum dolor sit amet, consectetur adipisicing
-																	elit. Laudantium esse Rem quidem, incidunt ad
-																	numquam quibusdam hic. Iste, sunt, corporis. Nisi
-																	itaque eligendi illum quod, ipsam dolor commodi
-																	blanditiis iste. Consequuntur doloribus accusantium
-																	sed tempora voluptatum, quisquam sit modi qui maxime
-																	reiciendis, harum, earum. Eum, ex quam excepturi.
-																</p>
-																<p>Lorem ipsum dolor sit amet, consectetur adipisicing
-																	elit. Possimus expedita explicabo sed voluptatum
-																	minus quos dolorum officia odio reiciendis nesciunt.
-																	Cupiditate, aperiam, architecto exercitationem
-																	repudiandae quas quisquam incidunt et quasi.</p>
-															</div>
-														</div>
-														<a class="project-source" href="#">
-															<span class="front">
-																<i class="fas fa-long-arrow-alt-right"></i>
-																<span class="value">Visit <span>Project</span></span>
-															</span>
-															<span class="back">
-																<i class="fas fa-long-arrow-alt-right"></i>
-																<span class="value">Visit <span>Project</span></span>
-															</span>
-														</a>
-													</div>
-												</div>
+										<div class="single-skills-wrapper col-12 col-sm-6">
+												<ul>
+													<li>
+														<ul>
+															<li class="single-skill" style="padding-top: 10px;">
+																<ul>
+																	<li class="skill-name">
+																		<i
+																			class="fas fa-angle-double-right"></i><span>&nbsp;<a href="http://acircle.com.sg/" target="_blank">The Architects Circle Pte Ltd</a></span>
+																	</li>
+																</ul>
+															</li>
+															<li class="single-skill" style="padding-top: 10px;">
+																<ul>
+																	<li class="skill-name">
+																		<i
+																			class="fas fa-angle-double-right"></i><span>&nbsp;Aplikasi Police 101</span>
+																	</li>
+																</ul>
+															</li>
+															<li class="single-skill" style="padding-top: 10px;">
+																<ul>
+																	<li class="skill-name">
+																		<i
+																			class="fas fa-angle-double-right"></i><span>&nbsp;Aplikasi BNN Genggamanku</span>
+																	</li>
+																</ul>
+															</li>
+															<li class="single-skill" style="padding-top: 10px;">
+																<ul>
+																	<li class="skill-name">
+																		<i
+																			class="fas fa-angle-double-right"></i><span>&nbsp;PLATO (Pengatur Lalu Lintas Otomatis)</span>
+																	</li>
+																</ul>
+															</li>
+															<li class="single-skill" style="padding-top: 10px;">
+																<ul>
+																	<li class="skill-name">
+																		<i
+																			class="fas fa-angle-double-right"></i><span>&nbsp;HMIS (Hospital Management Infomation System)</span>
+																	</li>
+																</ul>
+															</li>
+															<li class="single-skill" style="padding-top: 10px;">
+																<ul>
+																	<li class="skill-name">
+																		<i
+																			class="fas fa-angle-double-right"></i><span>&nbsp;Remunerasi RSUP Dr. Mohammad Hoesin</span>
+																	</li>
+																</ul>
+															</li>
+															<li class="single-skill" style="padding-top: 10px;">
+																<ul>
+																	<li class="skill-name">
+																		<i
+																			class="fas fa-angle-double-right"></i><span>&nbsp;ERP PT. PROPERNAS GRIYA UTAMA</span>
+																	</li>
+																</ul>
+															</li>
+															<li class="single-skill" style="padding-top: 10px;">
+																<ul>
+																	<li class="skill-name">
+																		<i
+																			class="fas fa-angle-double-right"></i><span>&nbsp;KORLANTAS Simulator SIM</span>
+																	</li>
+																</ul>
+															</li>
+															<li class="single-skill" style="padding-top: 10px;">
+																<ul>
+																	<li class="skill-name">
+																		<i
+																			class="fas fa-angle-double-right"></i><span>&nbsp;<a href="http://jakarta.riskmap.id/" target="_blank">RISKMAP Flood Prevention</a></span>
+																	</li>
+																</ul>
+															</li>
+															<li class="single-skill" style="padding-top: 10px;">
+																<ul>
+																	<li class="skill-name">
+																		<i
+																			class="fas fa-angle-double-right"></i><span>&nbsp;<a href="http://bwssumatera4.higertech.com" target="_blank">Higertech Telemetry Technology</a></span>
+																	</li>
+																</ul>
+															</li>
+															<li class="single-skill" style="padding-top: 10px;">
+																<ul>
+																	<li class="skill-name">
+																		<i
+																			class="fas fa-angle-double-right"></i><span>&nbsp;<a href="http://adbang.digitec.id/" target="_blank">Administrasi Pembangunan JABAR</a></span>
+																	</li>
+																</ul>
+															</li>
+														</ul>
+													</li>
+												</ul>
 											</div>
 										</div>
-										<!-- Portfolio Item Ends -->
-									</div>
 								</div>
 								<!-- Projects Ends -->
 							</div>
